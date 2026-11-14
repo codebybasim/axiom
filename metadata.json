@@ -1,0 +1,6 @@
+{
+  "name": "Axiom Puzzle Lab",
+  "description": "Sixteen modern visual problem-solving games in one sleek studio — Traffic Escape, Laser Mirrors, Flow Connect, Color Flask Sort, Pipe Plumber, Untangle Web, Crate Mover, Ice Labyrinth, Shape Fit, One-Stroke Path, Circuit Lab, Matchstick Fix, Detective Grid, Safe Cracker, Mine Sweep, and Sudoku.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
