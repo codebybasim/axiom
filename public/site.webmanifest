@@ -1,0 +1,27 @@
+{
+  "name": "Axiom Puzzle Lab",
+  "short_name": "Axiom",
+  "description": "Sixteen visual problem-solving games in one sleek studio — Sudoku, Minesweeper, Laser Mirrors, Traffic Escape, Flow Connect, and more.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B0D12",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
